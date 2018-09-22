@@ -1,11 +1,14 @@
 _repo: The-Travels-and-Extraordinary-Adventures-of-Bob-the-Squirrel_55856
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Various
     alias: Verschillende
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 55856-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -16,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55856#The-Travels-and-Extraordinary-Adventures-of-Bob-the-Squirrel
 gutenberg_issued: '2017-10-31'
 gutenberg_type: Text
 identifiers:
